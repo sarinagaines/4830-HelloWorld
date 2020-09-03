@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ****
+=======
+>>>>>>> TestBranch
 Hello World from Git!
 :)
 
